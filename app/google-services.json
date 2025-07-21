@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "674201987356",
+    "project_id": "final-project-3339d",
+    "storage_bucket": "final-project-3339d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674201987356:android:2e63a3f7083862cba832d9",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.firebaseauthdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674201987356-e8u90brqpik87vvrse3sbke8ja5ett76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.bimalkafle.firebaseauthdemoapp",
+            "certificate_hash": "317d4c706fdfa6cdf74f4d38f0b02047e4ac8bfe"
+          }
+        },
+        {
+          "client_id": "674201987356-tehh4n9739us2n0ftslhmprk6ac715g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.bimalkafle.firebaseauthdemoapp",
+            "certificate_hash": "56da0786acb3fd7ead1d28ed36753246b274fb60"
+          }
+        },
+        {
+          "client_id": "674201987356-r21boq78act0n4b57k5pe8o8g962kraa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWLCHQ6EsCXKqFaVsIVSNdutrSPm-GzAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674201987356-r21boq78act0n4b57k5pe8o8g962kraa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

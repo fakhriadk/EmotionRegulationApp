@@ -1,0 +1,83 @@
+<resources>
+    <!-- Your App's Base Strings (These do not need to be translated) -->
+    <string name="app_name">CalmBot</string>
+    <string name="default_web_client_id">google-services.json</string>
+
+    <!-- General Words & Dialogs -->
+    <string name="sign_out">Keluar</string>
+    <string name="sign_out_confirm_title">Konfirmasi Keluar</string>
+    <string name="sign_out_confirm_message">Apakah Anda yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+
+    <!-- HomePage Content -->
+    <string name="dashboard">Dashboard</string>
+    <string name="activities">Aktivitas</string>
+    <string name="breathing_exercise_title">Latihan Pernapasan</string>
+    <string name="breathing_exercise_subtitle">Momen ketenangan</string>
+    <string name="mindfulness_tag">MINDFULNESS</string>
+    <string name="chat_bot_title">Chat dengan Bot</string>
+    <string name="chat_bot_subtitle">Bicara dengan asisten cerdas kami!</string>
+    <string name="ai_support_tag">DUKUNGAN AI</string>
+    <string name="short_reads">Bacaan Singkat</string>
+    <string name="short_reads_subtitle">Tingkatkan kesehatan mental Anda</string>
+    <string name="article_1_title">Perawatan Diri untuk Kecemasan</string>
+    <string name="article_1_source">MIND UK (Inggris)</string>
+    <string name="article_1_time">6 menit</string>
+    <string name="article_2_title">Mengelola Kecemasan</string>
+    <string name="article_2_source">RSABHK (Bahasa)</string>
+    <string name="article_2_time">4 menit</string>
+
+    <!-- Profile Page -->
+    <string name="profile">Profil</string>
+    <string name="settings">Pengaturan</string>
+    <string name="language">Bahasa</string>
+    <string name="language_english">English</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="membership">Keanggotaan</string>
+    <string name="premium_user">Pengguna Premium</string>
+    <string name="joined">Bergabung</string>
+    <string name="joined_date">Jan 2024</string>
+
+    <!-- Mindfulness Videos Section -->
+    <string name="mindfulness_section_title">Latihan Mindfulness</string>
+    <string name="mindfulness_section_subtitle">Sesi video terpandu untuk menenangkan pikiranmu</string>
+    <string name="video_1_title">Meditasi Terpandu 10 Menit</string>
+    <string name="video_2_title">Meditasi Grounding untuk Stres</string>
+    <string name="video_1_source">Calm (Inggris)</string>
+    <string name="video_2_source">SKWAD Health (Indonesian)</string>
+
+    <!-- Journal Feature -->
+    <string name="journal_title">Jurnal</string>
+    <string name="journal_subtitle">Refleksikan harimu</string>
+    <string name="journal_tag">REFLEKSI</string>
+    <string name="journal_page_title">Jurnal Saya</string>
+    <string name="journal_textfield_placeholder">Apa yang ada di pikiranmu hari ini?</string>
+    <string name="journal_save_button">Simpan Entri</string>
+    <string name="past_entries_title">Entri Sebelumnya</string>
+
+    <!-- Statistics Page -->
+    <string name="statistics_title">Statistik</string>
+    <string name="this_week">Minggu Ini</string>
+    <string name="mood_consistency">Konsistensi Mood</string>
+    <string name="journal_entries">Entri Jurnal</string>
+    <string name="mindfulness_sessions">Mindfulness</string>
+    <string name="tap_to_log_mood">Ketuk emoji untuk mencatat mood</string>
+
+    <!-- New Profile Page Strings -->
+    <string name="send_feedback">Kirim Masukan</string>
+    <string name="rate_app">Beri Nilai Aplikasi</string>
+    <string name="app_version">Versi Aplikasi</string>
+
+    <!-- Soothing Audio Section -->
+    <string name="soothing_audio_section_title">Suara Penenang</string>
+    <string name="soothing_audio_section_subtitle">Dengarkan untuk relaksasi dan fokus</string>
+    <string name="audio_1_title">Lo-Fi Music</string>
+    <string name="audio_1_description">Musik instrumental yang menenangkan</string>
+    <string name="audio_2_title">Suara Hujan untuk Tidur</string>
+    <string name="audio_2_description">White noise suara hujan</string>
+
+    <!-- New Statistics Cards -->
+    <string name="average_mood">Mood Rata-rata</string>
+    <string name="most_frequent_mood">Paling Sering</string>
+</resources>
