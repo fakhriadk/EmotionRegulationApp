@@ -26,7 +26,6 @@ import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import np.com.bimalkafle.firebaseauthdemoapp.R
 
-// Dummy data classes for the UI prototype
 data class CommunityMessage(
     val senderAlias: String,
     val message: String,
